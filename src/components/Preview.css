@@ -1,0 +1,29 @@
+.Preview{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.Preview2{
+    width :820px /* ngang */!important;
+    max-height: 9999px !important;
+    text-align: center;
+}
+.Label2{
+    width :820px /* ngang */!important;
+    height:20px !important; 
+    font-size: 15px !important;
+    color: red !important;
+    background-color: rgba(123, 239, 178, 0.4) !important;
+}
+.Input2{
+    width :820px !important ;
+    min-height: 200px !important;
+    background-color: rgba(159, 255, 133, 0.1) !important;
+    overflow: hidden ;
+    color: red !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic !important;
+    font-size: 22px !important;
+    font-weight: 900;
+    border : solid 1px black;
+}

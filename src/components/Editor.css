@@ -1,0 +1,26 @@
+.Editor{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.Editor1{
+    width :602px /* ngang */!important;
+    height:227px /* dọc */!important;
+    text-align: center;
+}
+.Label1{
+    width :602px /* ngang */!important;
+    height:20px !important; 
+    font-size: 15px !important;
+    color: red !important;
+    background-color: rgba(123, 239, 178, 0.4) !important;
+}
+.Input1{
+    width :602px !important ;
+    height:207px !important ;
+    background-color: rgba(159, 255, 133, 0.1) !important;
+    color: red !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic !important;
+    font-size: 17px !important;
+}
